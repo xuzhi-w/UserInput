@@ -3,7 +3,7 @@ This is the initial page,
 
 ![Screenshot 2024-09-10 145907](https://github.com/user-attachments/assets/ff20e345-44f4-4897-9783-8eb625ed1eed)
 
-if you put the name and age right, these info can show on the page
+If you put the name and age right, these info can show on the page
 ![Screenshot 2024-09-10 150037](https://github.com/user-attachments/assets/060d5e8c-2bd9-4c4a-bd63-170ce076591d)
 
 
