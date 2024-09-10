@@ -1,3 +1,21 @@
+Introduction: This is a single page application using React, you can input username and age, and this information either get showed on the page or get an error message.
+This is the initial page,
+
+![Screenshot 2024-09-10 145907](https://github.com/user-attachments/assets/ff20e345-44f4-4897-9783-8eb625ed1eed)
+
+if you put the name and age right, these info can show on the page
+![Screenshot 2024-09-10 150037](https://github.com/user-attachments/assets/060d5e8c-2bd9-4c4a-bd63-170ce076591d)
+
+
+But if your input is empty or age is not right , it can give you some error message.
+![Screenshot 2024-09-10 145744](https://github.com/user-attachments/assets/52482a82-f173-41ef-a5e0-eac82856835a)
+
+![Screenshot 2024-09-10 145728](https://github.com/user-attachments/assets/219fb0dd-b3d2-4124-b44b-4d996b23dd88)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
